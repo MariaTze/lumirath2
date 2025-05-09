@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.font-uncial {
+    font-family: 'MedievalSharp', serif !important;
+}
